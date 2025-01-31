@@ -30,8 +30,11 @@ This section includes examples for basics of lighting, reflections, shadows, etc
 This section includes examples for basics of texture manipulation such as repeating, sectioning, smooth step, solid gradient, zoom, etc.
 ![Repeat](Screenshots/Repeat.png)
 ![Sectioning](Screenshots/Sectioning.png)
-![Repeat](Screenshots/Repeat.png)
 ![SolidGradient](Screenshots/SolidGradient.png)
 ![SmoothStep](Screenshots/SmoothStep.png)
 ![Circle](Screenshots/Circle.png)
 ![Zoom](Screenshots/Zoom.png)
+
+## Additions
+
+Also, this repository includes copies of default built-in UI shader and DOTS instancing shader of Unity. These shaders are added to modify them to be able to create new UI or DOTS shaders later.
