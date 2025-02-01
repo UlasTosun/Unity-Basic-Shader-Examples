@@ -23,7 +23,7 @@ This section includes examples for basics of lighting, reflections, shadows, etc
 ![Shadow](Screenshots/Shadow.png)<br/><br/>
 
 **Normal Map:**
-![NormalMap](Screenshots/NormalMap.png)
+![NormalMap](Screenshots/NormalMap.png)<br/><br/>
 
 ## Basic Examples
 
