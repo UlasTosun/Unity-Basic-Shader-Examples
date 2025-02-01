@@ -8,19 +8,19 @@ This repository includes basic shader examples in two categories; texture manipu
 This section includes examples for basics of lighting, reflections, shadows, etc.
 
 **Diffuse Reflection (Lambert Lighting):**
-![Lambert](Screenshots/Lambert.png)
+![Lambert](Screenshots/Lambert.png)<br/><br/>
 
 **Specular Reflection (Phong Lighting):**
-![Phong](Screenshots/Phong.png)
+![Phong](Screenshots/Phong.png)<br/><br/>
 
 **Environmental Reflection:**
-![Environmental](Screenshots/Environmental.png)
+![Environmental](Screenshots/Environmental.png)<br/><br/>
 
 **Fresnel (Rim) Effect:**
-![Fresnel](Screenshots/Fresnel.png)
+![Fresnel](Screenshots/Fresnel.png)<br/><br/>
 
 **Shadows:**
-![Shadow](Screenshots/Shadow.png)
+![Shadow](Screenshots/Shadow.png)<br/><br/>
 
 **Normal Map:**
 ![NormalMap](Screenshots/NormalMap.png)
